@@ -1,0 +1,110 @@
+html{
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(45, 44, 42);
+    border-radius: 10px;
+}
+
+.container{
+
+    max-width: 1200px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 50px;
+    margin: 50px;
+    background-color: #a19f9f;
+    border-radius: 10px;
+    
+ 
+}
+
+.truename , .resistencia , .cidadao , .educacao, .motiva, .morin{
+
+    font-weight: bold;
+
+}
+
+.cabecalho{
+
+    text-align: left;
+}
+
+.titulo-principal{
+
+    font-size: 40px;
+    text-align: center;
+
+}
+
+.paragrafo-principal{
+
+    font-style: italic;
+    text-align: center;
+}
+
+.livro{
+    padding: 10px;
+    margin: 10px;
+    border-top: 1px dashed rgb(45, 44, 42);
+    text-align: center;
+}
+
+.biografia-container{
+
+    padding: 25px 0;
+    margin: 25px 0;
+    border-top: 1px dashed rgb(45, 44, 42);
+    border-bottom: 1px rgb(45, 44, 42);
+}
+
+.frase-container{
+
+    background-color: rgb(45, 44, 42);
+    padding: 30px;
+    border-radius: 20px;
+    color: #a19f9f;
+    font-style: italic;
+    text-align: center;
+}
+
+
+.frase-container blockquote{
+
+    font-weight: 600;
+    font-size: 30px;
+    
+}
+
+.curiosidades{
+
+    padding: 25px 0;
+    margin: 25px 0;
+    border-top: 1px dashed rgb(45, 44, 42);
+    border-bottom: 1px rgb(45, 44, 42);
+}
+
+.livro{
+
+    text-align: center;
+}
+
+.img-destaque{
+
+    text-align: center;
+}
+
+.socilogo{
+
+    font-style: italic;
+}
+
+.img-destaque{
+
+    background-color: rgb(45, 44, 42);
+    padding: 20px;
+    border-radius: 20px;
+    color: #f5f5f5;
+    font-style: italic;
+    font-size: 20px;
+}
